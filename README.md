@@ -1,75 +1,48 @@
-# Full-Stack-Web-Dev 🚀
+# 🚀 Full Stack Web Development
 
-My Full Stack Web Development Journey.
+Welcome to my **Full Stack Web Development** learning repository!
 
-This repository contains my practice code, projects, and learning progress as I learn Full Stack Web Development from the basics to advanced concepts.
+This repository contains my learning journey, practice files, notes, and projects as I progress from **HTML fundamentals to complete Full Stack Web Development**.
+
+---
 
 ## 📚 What I'm Learning
 
-- HTML
-- CSS
-- JavaScript
-- Frontend Development
-- Backend Development
-- Databases
-- APIs
-- Git & GitHub
-- Full Stack Web Development
+### 🌐 HTML
+
+Currently, I'm building a strong foundation in HTML, including:
+
+- Basic Structure of HTML
+- First HTML Website
+- HTML Headings
+- Paragraphs
+- Links
+- IDs & Classes
+- Images
+- Lists
+- Tables
+- Inline & Block Elements
+- Forms & Input Tags
+- SEO Basics
+- Core Web Vitals
+
+---
 
 ## 📂 Repository Structure
 
-### HTML Basics
-
-- `Basic Structure of an HTML`
-  - Learning the basic structure of an HTML document.
-
-- `First HTML Website`
-  - My first simple HTML website.
-
-- `Headings, Paragraphs & Links`
-  - Practicing headings, paragraphs, links, and basic HTML elements.
-
-## 🎯 Goals
-
-My goal is to become a skilled Full Stack Web Developer by building projects and consistently improving my development skills.
-
-### Short-Term Goals
-
-- [x] Learn HTML basics
-- [x] Create my first HTML website
-- [x] Learn basic CSS
-- [ ] Learn JavaScript
-- [ ] Build responsive websites
-- [ ] Learn Git & GitHub properly
-
-### Long-Term Goals
-
-- [ ] Master Frontend Development
-- [ ] Learn Backend Development
-- [ ] Learn Databases
-- [ ] Build Full Stack Projects
-- [ ] Learn REST APIs
-- [ ] Deploy real-world applications
-
-## 🛠️ Technologies
-
-Currently working with:
-
-- HTML5
-- CSS3
-- Git
-- GitHub
-
-More technologies will be added as I progress through my Full Stack Web Development journey.
-
-## 📈 Progress
-
-I am continuously updating this repository as I learn new concepts and build new projects.
-
-> Learn → Practice → Build → Improve 🚀
-
-## 👨‍💻 About This Repository
-
-This repository is mainly for learning, practice, experimentation, and tracking my progress throughout my Full Stack Web Development journey.
-
-Thanks for checking out my repository! ⭐
+```text
+Full-Stack-Web-Dev/
+│
+├── Basic Structure of an HTML/
+├── First HTML Website/
+├── Frist Day/
+├── Headings, Paragraphs & Links/
+├── ID & Classes in HTML/
+├── Image, Lists, & Tables in HTML/
+├── Image, Lists & Tables in HTML/
+├── Inline & Block Elements in HTML/
+├── SEO and Core Web Vitals in HTML/
+│
+├── Forms and input tags in HTML
+│
+└── README.md
